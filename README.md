@@ -21,7 +21,7 @@ Add the [seo-tabs.min.js](dist/seo-tabs.min.js) and [seo-tabs.min.css](dist/seo-
 <link href="path-to/seo-tabs.min.css" />
 ```
 
-Add the tab markup to your page body:
+Add the minimal, semantic markup for your tabs:
 
 ```html
 <div data-seo-tabs="true" data-hashable="true">
