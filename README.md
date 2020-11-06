@@ -11,6 +11,8 @@ Lightweight SEO friendly tabs written in 1k of vanilla JavaScript.
 - [x] Avoid CSS conflicts by using HTML5 data-* attributes
 - [x] Optionally support hash urls
 
+You can view a live version of this at [orcascan.com](https://orcascan.com/docs/api/lookup-url).
+
 ## Usage
 
 Add the [seo-tabs.min.js](dist/seo-tabs.min.js) and [seo-tabs.min.css](dist/seo-tabs.min.css) files to your page:
