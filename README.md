@@ -2,13 +2,12 @@
 
 Lightweight SEO friendly tabs written in 1k of vanilla JavaScript.
 
-- [x] Uses minimal code
-- [x] Semantic HTML tags
+- [x] Uses minimal, semantic HTML tags
 - [x] Element relationship should be obvious from markup
 - [x] Easy to set default tab without JS
 - [x] Crawlable by search engines
 - [x] No need to write JavaScript to instantiate
-- [x] Avoid CSS conflicts by using HTML5 data-* attributes
+- [x] Uses HTML5 data-* attributes to avoid CSS conflicts
 - [x] Optionally support hash urls
 
 You can view a live version of this at [orcascan.com](https://orcascan.com/docs/api/lookup-url).
