@@ -16,27 +16,52 @@ Lightweight SEO friendly tab control written in pure JavaScript.
 Add the [seo-tabs.min.js](dist/seo-tabs.min.js) and [seo-tabs.min.css](dist/seo-tabs.min.css) files to your page:
 
 ```html
-    <script src="path-to/seo-tabs.min.js"></script>
-    <link href="path-to/seo-tabs.min.css" />
+<script src="path-to/seo-tabs.min.js"></script>
+<link href="path-to/seo-tabs.min.css" />
 ```
 
 Add the tab markup to your page body:
 
 ```html
-    <div data-seo-tabs="true" data-hashable="true">
-        <a href="#one" data-tabtop="true" data-active="true">One</a>
-        <a href="#two" data-tabtop="true">Two</a>
-        <a href="#three" data-tabtop="true">Three</a>
-        <div id="one" data-tabbox="true" data-active="true">
-            Hello from tab box 1
-        </div>
-        <div id="two" data-tabbox="true">
-            Hello from tab box 2
-        </div>
-        <div id="three" data-tabbox="true">
-            Hello from tab box 3
-        </div>
+<div data-seo-tabs="true" data-hashable="true">
+    <a href="#one" data-tabtop="true" data-active="true">One</a>
+    <a href="#two" data-tabtop="true">Two</a>
+    <a href="#three" data-tabtop="true">Three</a>
+    <div id="one" data-tabbox="true" data-active="true">
+        Hello from tab box 1
     </div>
+    <div id="two" data-tabbox="true">
+        Hello from tab box 2
+    </div>
+    <div id="three" data-tabbox="true">
+        Hello from tab box 3
+    </div>
+</div>
+```
+
+Style the tab strip using CSS:
+
+```css
+/* tap tops */
+[data-seo-tabs="true"] [data-tabtop="true"] {
+    border: 1px solid #ccc;
+    border-bottom: 0;
+}
+
+[data-seo-tabs="true"] [data-tabtop="true"][data-active="true"] {
+    background: #ccc;
+    color: #333;
+}
+
+/* tab boxes */
+[data-seo-tabs="true"] [data-tabbox="true"] {
+    background: #ccc;
+    border: 1px solid #ccc;
+}
+
+[data-seo-tabs="true"] [data-tabbox="true"][data-active="true"] {
+    background: #ccc;
+}
 ```
 
 ## Contributing
