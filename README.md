@@ -1,6 +1,6 @@
 # seo-tabs
 
-Lightweight SEO friendly tab control written in pure JavaScript.
+Lightweight SEO friendly tabs written in 1k of vanilla JavaScript.
 
 - [x] Uses minimal code
 - [x] Semantic HTML tags

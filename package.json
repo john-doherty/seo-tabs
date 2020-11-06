@@ -1,7 +1,7 @@
 {
   "name": "seo-tabs",
   "version": "1.0.0",
-  "description": "Lightweight SEO friendly tab control written in pure JavaScript",
+  "description": "Lightweight SEO friendly tabs written in 1k of vanilla JavaScript",
   "main": "index.js",
   "scripts": {
     "start": "node server/dev-server.js",
@@ -21,13 +21,17 @@
   },
   "homepage": "https://github.com/john-doherty/seo-tabs#readme",
   "dependencies": {
-    "del": "^6.0.0",
-    "express": "^4.17.1",
-    "gulp": "^3.9.1",
-    "gulp-minify": "^3.1.0",
-    "gulp-remove-logging": "^1.2.0",
+    "del": "2.2.2",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0",
+    "express": "4.15.3",
+    "gulp": "3.9.1",
+    "gulp-clean-css": "3.3.1",
+    "gulp-rename": "1.2.2",
     "gulp-sizereport": "^1.2.1",
-    "gulp-string-replace": "^1.1.2",
-    "run-sequence": "^2.2.1"
+    "gulp-string-replace": "^0.4.0",
+    "gulp-uglify": "^3.0.1",
+    "run-sequence": "1.2.2"
   }
 }
