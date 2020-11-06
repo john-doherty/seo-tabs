@@ -65,7 +65,7 @@ Override default style using CSS:
 }
 ```
 
-Produces:
+The above code produces:
 
 <img src="docs/example.gif" height="156px" />
 
