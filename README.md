@@ -74,7 +74,7 @@ Style the tab strip using CSS:
 
 ### Development
 
-The project includes everything you need to tweak, including a node webserver. Run the following, then visit [http://localhost:8080](http://localhost:8080) in your browser.
+The project includes everything you need to tweak, including a node webserver. Run the following:
 
 ```bash
 git clone https://github.com/john-doherty/seo-tabs
@@ -82,6 +82,8 @@ cd seo-tabs
 npm install
 npm start
 ```
+
+Then visit [http://localhost:8080](http://localhost:8080) in your browser.
 
 ### Update .min files
 
