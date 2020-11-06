@@ -66,6 +66,10 @@ Style the tab strip using CSS:
 }
 ```
 
+Produces:
+
+<img src="docs/example.gif" height="156px" />
+
 ## Contributing
 
 1. Fork it!
