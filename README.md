@@ -40,7 +40,7 @@ Add the minimal, semantic markup for your tabs:
 </div>
 ```
 
-Style the tab strip using CSS:
+Override default style using CSS:
 
 ```css
 /* tap tops */
