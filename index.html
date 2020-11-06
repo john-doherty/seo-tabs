@@ -1,0 +1,30 @@
+<!doctype>
+<html>
+    <head>
+        <title>SEO Tabs example</title>
+        <script src="src/seo-tabs.js"></script>
+        <link rel="stylesheet" href="src/seo-tabs.css" />
+        <style>
+            body {
+                font-family: Arial, Helvetica, sans-serif;
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div data-seo-tabs="true" data-hashable="true">
+            <a href="#one" data-tabtop="true" data-active="true">One</a>
+            <a href="#two" data-tabtop="true">Two</a>
+            <a href="#three" data-tabtop="true">Three</a>
+            <div id="one" data-tabbox="true" data-active="true">
+                Hello from tab box 1
+            </div>
+            <div id="two" data-tabbox="true">
+                Hello from tab box 2
+            </div>
+            <div id="three" data-tabbox="true">
+                Hello from tab box 3
+            </div>
+        </div>
+    </body>
+</html>
