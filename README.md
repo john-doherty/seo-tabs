@@ -10,7 +10,7 @@ Lightweight SEO friendly tabs written in 1k of vanilla JavaScript.
 - [x] Uses HTML5 data-* attributes to avoid CSS conflicts
 - [x] Optionally sets URL hash based on selected tab _(add `data-hashable="true"`)_
 
-You can view a live version of this at [orcascan.com](https://orcascan.com/docs/api/lookup-url).
+You can view a live version of this at [orcascan.com](https://orcascan.com/guides/how-to-connect-orca-scan-to-your-database-5d9695c8#how-do-i-create-a-lookup-url-for-my-system).
 
 ## Usage
 
