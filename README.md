@@ -4,7 +4,7 @@ SEO friendly tabs written in 1k of vanilla JavaScript.
 
 - [x] Uses minimal, semantic HTML tags
 - [x] Intuitive markup relationship
-- [x] Set default tab selection without JS
+- [x] Set default tab without JS
 - [x] Crawlable by search engines
 - [x] No JavaScript required to instantiate
 - [x] Uses HTML5 data-* attributes to avoid CSS conflicts
