@@ -7,7 +7,7 @@ Simple SEO friendly tabs _(1k of pure JS)_. Goals:
 - [x] Intuitive markup
 - [x] Set default tab without JS
 - [x] SEO friendly _(crawlable + minimal js)_
-- [x] Zero CSS conflicts _(uses HTML5 data-* attributes)_
+- [x] 0 CSS conflicts _(uses HTML5 data-* attributes)_
 - [x] Bookmarkable _(add `data-hashable="true"`)_
 
 You can view a live version of this at [orcascan.com](https://orcascan.com/guides/how-to-connect-orca-scan-to-your-database-5d9695c8#how-do-i-create-a-lookup-url-for-my-system).
