@@ -1,6 +1,6 @@
 # seo-tabs
 
-SEO friendly tabs written in 1k of vanilla JavaScript.
+Simple SEO friendly tabs _(1k of pure JS)_
 
 Goals _(keep it really f'kin simple)_:
 
