@@ -6,7 +6,7 @@ Simple SEO friendly tabs _(1k of pure JS)_. Goals:
 - [x] Minimal _(semantic)_ HTML
 - [x] Intuitive markup
 - [x] Set default tab without JS
-- [x] SEO friendly _(crawlable, minimal js)_
+- [x] SEO friendly _(crawlable + minimal js)_
 - [x] Zero CSS conflicts _(uses HTML5 data-* attributes)_
 - [x] Bookmarkable _(add `data-hashable="true"`)_
 
