@@ -10,7 +10,7 @@ Simple SEO friendly tabs _(1k of pure JS)_. Goals:
 - [x] 0 CSS conflicts _(uses HTML5 data-* attributes)_
 - [x] Bookmarkable _(add `data-hashable="true"`)_
 
-Live demo :point_right: [orcascan.com](https://orcascan.com/guides/how-to-connect-orca-scan-to-your-database-5d9695c8#how-do-i-create-a-lookup-url-for-my-system).
+Try it :point_right: [orcascan.com](https://orcascan.com/guides/how-to-connect-orca-scan-to-your-database-5d9695c8#how-do-i-create-a-lookup-url-for-my-system)
 
 ## Usage
 
