@@ -2,7 +2,7 @@
 
 SEO friendly tabs written in 1k of vanilla JavaScript.
 
-Goals:
+Goals _(keep it really fucking simple!)_:
 
 - [x] Minimal, semantic HTML tags
 - [x] Intuitive markup relationship
