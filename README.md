@@ -1,8 +1,6 @@
 # seo-tabs
 
-Simple SEO friendly tabs _(1k of pure JS)_
-
-Goals:
+Simple SEO friendly tabs _(1k of pure JS)_. Goals:
 
 - [x] Keep it really f'kin simple
 - [x] Minimal _(semantic)_ HTML
