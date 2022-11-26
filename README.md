@@ -7,7 +7,7 @@ Goals _(keep it really f'kin simple)_:
 - [x] Minimal, semantic HTML tags
 - [x] Intuitive markup relationship
 - [x] Set default tab without JS
-- [x] Crawlable by search engines
+- [x] SEO friendly _(crawlable)_
 - [x] Minimal JavaScript
 - [x] Zero CSS conflicts _(uses HTML5 data-* attributes)_
 - [x] Optionally sets URL hash on tab change _(add `data-hashable="true"`)_
