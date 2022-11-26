@@ -2,8 +2,9 @@
 
 Simple SEO friendly tabs _(1k of pure JS)_
 
-Goals _(keep it really f'kin simple)_:
+Goals:
 
+- [x] Keep it really f'kin simple
 - [x] Minimal, semantic HTML tags
 - [x] Intuitive markup relationship
 - [x] Set default tab without JS
