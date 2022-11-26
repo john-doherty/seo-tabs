@@ -1,6 +1,6 @@
 # seo-tabs
 
-Lightweight SEO friendly tabs written in 1k of vanilla JavaScript.
+SEO friendly tabs written in 1k of vanilla JavaScript.
 
 - [x] Uses minimal, semantic HTML tags
 - [x] Element relationship obvious from markup
